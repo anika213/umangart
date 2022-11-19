@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+body{
+
+    margin: 0;
+
+}
+
+h1{
+
+    font-family:"Cinzel";
+}
+.nav{
+    height: 20px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 20px;
+    color: white ;
+    display: flex;
+    align-items: right;
+    justify-items: right;
+    gap: 2rem;
+
+}
+
+.nav u1{
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 4rem;
+}
+
+a{
+
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+
+}
+.image1{
+    width: 350px;
+    height:300px;
+ 
+}   
+.image2{
+    width: 300px;
+    height:350px;
+}   
+
+.image3{
+    width: 350px;
+    height:250px;
+}   
+.button1{
+
+justify-content: center;
+height:40px;
+width: 80px;
+background-color: royalblue;
+border:10px;
+color:white;
+font-family: "Abel";
+border-color: azure;
+border-radius: 3px;
+}
+
+.button2{
+    justify-content: center;
+    height:40px;
+    
+    }
+
+p1{
+
+        font-style: bold;
+        font-family: 'Abel';
+
+    }
+
+p{
+    font-family: "Abel";
+}
+
+span{
+
+        color:rgb(140, 171, 244);
+        font-family: "Abel";
+    }
+
+.artname{
+    font-weight: bolder;
+    font-size:x-large;
+    font-family: "Abel";
+    padding:0;
+}
+
+.poemsize{
+    font-size: small;
+}
